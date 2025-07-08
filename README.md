@@ -155,3 +155,6 @@ int main() {
 
     return 0;
 }
+
+* VS CODE OUTPUT IS *
+* <img width="244" height="141" alt="Image" src="https://github.com/user-attachments/assets/383f107d-d5f7-4fa5-8dc3-334ce109bd8c" />
